@@ -1,0 +1,19 @@
+{
+  "name": "chai-aur-deploy",
+  "version": "1.0.0",
+  "description": "A basic app to be deployed",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Sanket Karmakar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0"
+  }
+}
